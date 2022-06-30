@@ -1,12 +1,13 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
  * Return: Always 0 (Success)
  */
-init main (void)
+int main (void)
 {
-	init a;
+	int a;
 	long init b;
 	long long init c;
 	char d;
