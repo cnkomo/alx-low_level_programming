@@ -1,7 +1,7 @@
 /*
  * File: 1-alphabet.c
  *
- * Auth: Dr Marcus imagwe
+ * Auth: Miss Clara Nkomo
  */
 
 #include "main.h"
