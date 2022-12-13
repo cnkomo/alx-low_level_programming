@@ -1,6 +1,6 @@
 /*
 *File: is the function lower case
-*Auth: Dr Marcus Imagwe
+*Auth: Miss Clara Nkomo
 */
 
 #include "main.h"
