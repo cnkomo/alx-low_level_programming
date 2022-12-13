@@ -1,6 +1,6 @@
 /*
 *File: alphabet ten times
-*Auth: Dr Marcus IMAGWE
+*Auth: Miss Clara Nkomo
 */
 
 #include "main.h"
