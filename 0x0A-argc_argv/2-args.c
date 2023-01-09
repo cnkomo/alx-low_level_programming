@@ -2,12 +2,12 @@
 
 /**
  * main - the entry point
- * @argc: arguments counter
+ * @argc: argument counter
  * @argv: array of pointer to strings
  *
  * Return: 0
  */
- int main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int i;
 
@@ -17,5 +17,5 @@
 		printf("%s\n", argv[i]);
 		i++;
 	}
-	        return (0);
+		return (0);
 }
