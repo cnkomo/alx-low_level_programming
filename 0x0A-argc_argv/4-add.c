@@ -2,12 +2,12 @@
 
 /**
  * main - adds positive numbers
- * @argc: arguments counter
- * @argv: array of pointers to strings
+ * @argc: argument counter
+ * @argv: array of pointer to strings
  *
  * Return: 0 if no errors, else
  */
- int main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int i, j, sum = 0;
 
@@ -29,4 +29,3 @@
 	printf("%d\n", sum);
 	return (0);
 }
-
