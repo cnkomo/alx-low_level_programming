@@ -5,7 +5,6 @@
  * @argc: argument counter
  * @argv: array of pointer to strings
  *
- *
  * Return: 0 if no errors, else
  */
 int main(int argc, char *argv[])
@@ -32,9 +31,9 @@ int main(int argc, char *argv[])
 			a -= t * c[i];
 			n += t;
 			if (a == 0)
-				break;
+			break;
 		}
 	}
-	printf("%d\n",n);
+	printf("%d\n", n);
 	return (0);
 }
